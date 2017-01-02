@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\harshit\documents\visual studio 2015\projects\graphicsassignment1\graphicsassignment1\source.cpp(60): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\harshit\documents\visual studio 2015\projects\graphicsassignment1\graphicsassignment1\source.cpp(60): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\harshit\documents\visual studio 2015\projects\graphicsassignment1\graphicsassignment1\source.cpp(90): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  LINK : C:\Users\Harshit\Documents\Visual Studio 2015\Projects\GraphicsAssignment1\Debug\GraphicsAssignment1.exe not found or not built by the last incremental link; performing full link
+  GraphicsAssignment1.vcxproj -> C:\Users\Harshit\Documents\Visual Studio 2015\Projects\GraphicsAssignment1\Debug\GraphicsAssignment1.exe
+  GraphicsAssignment1.vcxproj -> C:\Users\Harshit\Documents\Visual Studio 2015\Projects\GraphicsAssignment1\Debug\GraphicsAssignment1.pdb (Full PDB)
