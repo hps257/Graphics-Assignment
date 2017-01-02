@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\cygwin64\home\harshit\cs6533\template\windows\main.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\harshit\cs6533\template\windows\main.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\harshit\cs6533\template\windows\main.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\cygwin64\home\harshit\cs6533\template\windows\main.cpp(151): warning C4267: 'argument': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\cygwin64\home\harshit\cs6533\template\windows\main.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin64\home\harshit\cs6533\template\windows\main.cpp(182): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\cygwin64\home\harshit\cs6533\template\windows\main.cpp(186): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  TemplateProject.vcxproj -> C:\cygwin64\home\Harshit\CS6533\template\windows\Debug\TemplateProject.exe
+  TemplateProject.vcxproj -> C:\cygwin64\home\Harshit\CS6533\template\windows\Debug\TemplateProject.pdb (Full PDB)
