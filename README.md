@@ -13,6 +13,6 @@ Assignment 3
   • Use a normal map and a specular map on at least one object.
   • Use either the object loader or the geometry generator to create objects in your scene.
   
-Assignment #4
+Assignment 4
   • Add a post-processing screen shader to your previous homework.
   • It must combine at least two different post processing effects.
